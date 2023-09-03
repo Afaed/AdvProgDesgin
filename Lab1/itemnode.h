@@ -2,6 +2,9 @@
 #include <string>
 using namespace std;
 
+//From lab 7.19 LAB: Inventory (linked lists: insert at the front of a list)
+//Justin Choy
+
 class InventoryNode {
 private:
 	string item;

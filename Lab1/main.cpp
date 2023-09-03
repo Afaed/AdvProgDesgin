@@ -1,5 +1,6 @@
 #include "InventoryNode.h"
 //From lab 7.19 LAB: Inventory (linked lists: insert at the front of a list)
+//Justin Choy
 
 int main() {
 	int count;
